@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning system design and advanced backend architecture .<br>🎯 Goals - Build scalable SaaS projects and contribute to open-source .<br>😄 Fun fact - I debug better with music and caffeine ☕.<br>📫How to reach me - <a href="mailto:garvg2005@gmail.com">garvg2005@gmail.com</a>.
+<p align="left">📚 I'm currently learning system design and advanced backend architecture .🎯 Goal - I am passionate about building scalable SaaS solutions and giving back to the community through open-source contributions.📫How to reach me - <a href="mailto:garvg2005@gmail.com">garvg2005@gmail.com</a>.
 
 ###
 
