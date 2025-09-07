@@ -21,7 +21,7 @@
 
 - 🌱 I'm currently learning system design and advanced backend architecture.
 
-- ⚡ Fun fact:I find a lot of similarity between **Code**, **Data**, and **Dance**. When I’m not debugging or analyzing, you’ll probably find me dancing to a beat 😂.
+- ⚡ Fun fact : I find a lot of similarity between **Code**, **Data**, and **Dance**. When I’m not debugging or analyzing, you’ll probably find me dancing to a beat 😂.
 
   <img align="center" src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/Beautiful-Dance-Moves.jpg" height="200" width="200">
 
