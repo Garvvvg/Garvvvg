@@ -30,10 +30,10 @@
 
 ## Stuff I do/know 👨‍💻 🛠:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next.js,node.js,mysql,excel,git,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next.js,node.js,HTML,CSS,mysql,excel,git,cpp,c,py)](https://skillicons.dev)
 
 
-<img height="20" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">  <img height="20" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">  
+  <img height="20" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img height="20" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">  <img height="20" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">  
 
 
 
@@ -48,7 +48,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h4><img src="https://github.com/Ayan-OP/Garvvvg/blob/main/assets/spiderman.png" height="25" width="25"> Top Repositories</h4>
+<h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/spiderman.png" height="25" width="25"> Top Repositories</h4>
 
 
 <a href="https://github.com/Garvvvg/LearnVault">
