@@ -1,4 +1,4 @@
-![Header](./assets/Make%20your%20README%20(2).png)
+![Header](./assets/Make%20Your%20README%20(2).png)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
