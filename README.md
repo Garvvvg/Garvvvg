@@ -74,7 +74,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren y.jpg" height="25" width="25"> Top Repositories</h4>
+<h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25"> Top Repositories</h4>
 
 
 <a href="https://github.com/Garvvvg/LearnVault">
