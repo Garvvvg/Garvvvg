@@ -1,4 +1,4 @@
-![Header](./assets/Make%20your%20README%20(1).png)
+![Header](./assets/Make%20your%20README%20(2).png)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -74,7 +74,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/spidyyy.jpg" height="25" width="25"> Top Repositories</h4>
+<h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren y.jpg" height="25" width="25"> Top Repositories</h4>
 
 
 <a href="https://github.com/Garvvvg/LearnVault">
