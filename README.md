@@ -43,7 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvvvg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h4> Top Repositories</h4> <img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25">
+<h4> Top Repositories <img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25"> </h4>
 
 
 <a href="https://github.com/Garvvvg/LearnVault">
