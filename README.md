@@ -56,5 +56,7 @@
 <br />
 <br />
 ## Random Dev Quote ✍️ 
-![Quote](https://quotes-github-readme.vercel.app/api?quote=Programming%20is%20the%20dance%20of%20logic;%20debugging%20is%20learning%20the%20steps%20you%20missed.&author=Unknown&type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sarthakporwal&icon=0&color=0)](https://visitcount.itsvg.in)
