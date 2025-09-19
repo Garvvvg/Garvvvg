@@ -43,7 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvvvg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h4> Top Repositories <img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25"> </h4>
+<h4> <img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25">Top Repositories </h4>
 
 
 <a href="https://github.com/Garvvvg/LearnVault">
@@ -55,8 +55,4 @@
 
 <br />
 <br />
-## Random Dev Quote ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=sarthakporwal&icon=0&color=0)](https://visitcount.itsvg.in)
